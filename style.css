@@ -1,0 +1,53 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 49px;
+    color: #9ceaef;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #337ca0;
+}
+
+
+p {
+    border: 3px solid #0c3c48;
+    padding: 5px;
+    background-color: #0c3c48;
+    font-size: 40px;
+    font-family: 'Libre Baskerville', serif;
+
+
+}
+
+.text {
+    width: 92%;
+}
+
+header {
+    font-family: 'Lato', sans-serif;
+}
+
+.gallary {}
+
+.photo {
+    float: left;
+    width: 30%;
+}
+
+.container {
+    border: 1px solid red;
+    width: 88%;
+}
+
+img {
+    height: 200px;
+    border: 1px solid black;
+    
+}
+
+#special {
+    border: 1px dashed blue;
+    width: 100%;
+}
